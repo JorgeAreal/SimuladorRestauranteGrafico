@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+    <baseDeDatosSQL>
+        <url>jdbc:mysql://dam2.colexio-karbo.com</url>
+		<puerto>3333</puerto>
+        <nombre>karbo_jareal</nombre>
+        <usuario>dam2</usuario>
+        <contrasenia>Ka3b0134679</contrasenia>
+    </baseDeDatosSQL>
+	<API>
+		<urlAPI>http://dam2.colexio-karbo.com</urlAPI>
+		<puertoAPI>6021</puertoAPI>
+	</API>
+</configuracion>
